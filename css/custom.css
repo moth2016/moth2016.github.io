@@ -5,6 +5,9 @@ a {
 	text-decoration: inherit;
 	/*color: inherit;*/
 }
+.info-section {
+	padding: 0 0 6rem 0;
+}
 
 .description {
   color : gray;
